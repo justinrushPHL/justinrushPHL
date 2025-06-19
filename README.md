@@ -5,16 +5,18 @@
 Currently building financial intelligence platforms that bridge accounting precision with advanced analytics.
 
 #### 🔧 **Technical Stack:**
-- **Languages:** Python, SQL, Power BI
-- **Specialties:** Financial data pipelines, SEC analytics, automated reporting
-- **Databases:** ETL design, financial data warehousing
+- **Languages:** Python, SQL, DAX
+- **BI/Analytics:** Power BI, Jupyter Notebooks, Advanced Excel
+- **Specialties:** Financial data pipelines, SEC analytics, automated reporting, business intelligence
+- **Enterprise Systems:** SAP, Oracle (HFM), Workiva Wdesk, IBM Cognos
 - **Tools:** Git, Jupyter, APIs, business intelligence platforms
 
 #### 💼 **Professional Background:**
 - **Senior Manager** at Chubb Limited ($50B global insurance)
+- **Big 4 auditor** experience at PricewaterhouseCoopers (PwC) - public company audits and internal controls
 - **10+ years** in financial reporting & regulatory compliance
+- **Management consulting** - IPO readiness, M&A support, CFO advisory services
 - **Team leadership** experience managing 10+ professionals
-- **Executive communication** - translating complex data for C-suite
 
 #### 🎯 **Current Focus:**
 Building comprehensive financial analytics platforms that automate SEC data collection, analysis, and executive reporting.
