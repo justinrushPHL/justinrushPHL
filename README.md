@@ -21,7 +21,7 @@ Currently building financial intelligence platforms that bridge accounting preci
 #### 🎯 **Current Focus:**
 Building comprehensive financial analytics platforms that automate SEC data collection, analysis, and executive reporting.
 
-📍 **Location:** Philadelphia, PA  
+📍 **Location:** Marlton, NJ  
 📧 **Contact:** justin.rush8612@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/justinrush](https://www.linkedin.com/in/justinrush/)
 
