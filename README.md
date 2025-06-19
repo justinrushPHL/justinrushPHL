@@ -1,16 +1,27 @@
-## Hi there 👋
+### Financial Data Scientist | CPA, MBA 📊
 
-<!--
-**justinrushPHL/justinrushPHL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Transforming 10+ years of SEC reporting & financial systems expertise into data science solutions.**
 
-Here are some ideas to get you started:
+Currently building financial intelligence platforms that bridge accounting precision with advanced analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 **Technical Stack:**
+- **Languages:** Python, SQL, Power BI
+- **Specialties:** Financial data pipelines, SEC analytics, automated reporting
+- **Databases:** ETL design, financial data warehousing
+- **Tools:** Git, Jupyter, APIs, business intelligence platforms
+
+#### 💼 **Professional Background:**
+- **Senior Manager** at Chubb Limited ($50B global insurance)
+- **10+ years** in financial reporting & regulatory compliance
+- **Team leadership** experience managing 10+ professionals
+- **Executive communication** - translating complex data for C-suite
+
+#### 🎯 **Current Focus:**
+Building comprehensive financial analytics platforms that automate SEC data collection, analysis, and executive reporting.
+
+📍 **Location:** Philadelphia, PA  
+📧 **Contact:** justin.rush8612@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/justinrush](https://www.linkedin.com/in/justinrush/)
+
+---
+*"Combining deep financial domain expertise with modern data science to solve real business problems."*
