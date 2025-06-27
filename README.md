@@ -1,4 +1,4 @@
-### Financial Data Scientist | CPA, MBA 📊
+### Financial Data Science Professional | CPA, MBA 📊
 
 **Transforming 10+ years of SEC reporting & financial systems expertise into data science solutions.**
 
