@@ -5,11 +5,12 @@
 Currently building financial intelligence platforms that bridge accounting precision with advanced analytics.
 
 #### 🔧 **Technical Stack:**
-- **Languages:** Python, SQL, DAX
-- **BI/Analytics:** Power BI, Jupyter Notebooks, Advanced Excel
-- **Specialties:** Financial data pipelines, SEC analytics, automated reporting, business intelligence
-- **Enterprise Systems:** SAP, Oracle (HFM), Workiva Wdesk, IBM Cognos
-- **Tools:** Git, Jupyter, APIs, business intelligence platforms
+- **Core:** Python, SQL, DAX, JavaScript, advanced analytics programming
+- **AI/ML:** TensorFlow, scikit-learn, Keras, healthcare AI, production ML systems
+- **Data Platforms:** Snowflake, Tableau, Power BI, Streamlit, enterprise data warehouses
+- **APIs:** SEC EDGAR, Finnhub, real-time financial data, healthcare data integration
+- **Domains:** Healthcare AI (ECG analysis), Financial Intelligence (SEC analytics), Enterprise BI
+- **Enterprise:** SAP, Oracle, advanced Excel, automated reporting, production dashboards
 
 #### 💼 **Professional Background:**
 - **Senior Manager** at Chubb Limited ($50B global insurance)
